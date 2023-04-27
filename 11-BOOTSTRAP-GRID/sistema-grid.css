@@ -1,0 +1,23 @@
+.row div {
+    margin: 0.25rem;
+    width: 100%;
+}
+
+.col {
+    background-color: cyan;
+}
+.col-sm {
+    background-color: coral;
+}
+.col-md {
+    background-color: darkorchid;
+}
+.col-lg {
+    background-color: greenyellow;
+}
+.col-xl {
+    background-color:deeppink;
+}
+.col-xxl {
+    background-color: pink;
+}
